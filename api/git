@@ -1,0 +1,13 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:asifip/wpcontainer.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin git@github.com:asifip/wordpressure.git
+git branch -M main
+git push -u origin main
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD2RtnlHi4uT1k+4RAU7eO+yJR4PAc8g4um/XtwlhdUd7jTCloTfQhYqNecUIqoLkeoNJFssIkUeRTBMoPCy9/KIDZmixWoA4xuMctUpGcNJL9nX+KhRdstqsqvNtRKTqdw+V8U3u9h8NtqasVLDbnBuljsS0tWbz2bsmrZ1zxb/ot/1X8PrhYHRvTISfOWl6pSaKou8AQnz/XAuYoga8PMTL0HmLpwO3pKhdvvJtD8EbEoJ1VQAtZ1y47PpEf2VYgl3o3mGXDsvSGhe1BXfM4qhopbW1TY1vvSFcvmU2/iiYyvbaaEy9CgEeTVVkpkLBIoE1UKot68GiV/6EPfMpGQ2QE9oWS7iY46pjpoNHjV436XBTr35EadTQck00Juj3LLtL04GsmysyCDgSmIEKy9YLUfp4coMTzwEzm8vCzv2XBU5lsx33Vy4HBSbaxHQsGXXlFTZ/WB2Wgrdhb9QcKOjgEDTi8/hVkfkwWaziljugoDa/liEq5t/boZhbciNdQNfreSFXgfnamEdEs8CoxYw/8bdd1kgwTX8kRew7UwQVwUyCvAOS852HIwpJhvraSLl2XuUd1jGhSlotP5Ke0TuKHOSaCVdBBEOa8U6YvPE3oZoro0GqPwTyoJNYi/Tsq5/GjWfXH2cUWjpD4X3pqSpZsaaWEF5H2JUxNwYtKGaQ== asifip@yahoo.com
+
